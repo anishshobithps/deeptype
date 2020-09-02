@@ -1,7 +1,7 @@
 {
-  "name": "@anish/type",
-  "version": "1.0.0",
-  "description": "A package for deep checking of Types",
+  "name": "@extreme_hero/deeptype",
+  "version": "1.0.1",
+  "description": "A npm package for deep checking of Types.",
   "main": "dist/index.js",
   "author": "Anish Shobith",
   "license": "MIT",
@@ -17,5 +17,6 @@
   "scripts": {
     "prepublishOnly": "yarn build",
     "build": "tsc"
-  }
+  },
+  "repository": "git@github.com:Anish-Shobith/deeptype.git"
 }
