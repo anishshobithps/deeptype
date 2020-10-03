@@ -1,4 +1,4 @@
-//@ts-ignore
+//@ts-nocheck
 const { getPromiseDetails } = process.binding('util');
 
 /**
