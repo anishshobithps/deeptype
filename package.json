@@ -1,8 +1,9 @@
 {
   "name": "@anishshobith/deeptype",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Npm package for deep checking of types.",
-  "main": "dist/index.js",
+  "main": "dist/index.js",\
+  "types": "dist/index.d.ts"
   "author": "Anish Shobith",
   "files": [
     "dist/index.js",
